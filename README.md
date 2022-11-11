@@ -1,4 +1,4 @@
-# NLW COPA - Trila Ignite - Rocketseat
+# NLW COPA - Trilha Ignite - Rocketseat
 
 Projeto para o desenvolvimento de um bolão para a copa do mundo!
 
@@ -27,4 +27,4 @@ Para o usuario acessar o aplicativo foi utilizado a autenticação com a contato
 
 
 
-####### Obs: O projeto ainda está passando por alterçãoes
+###### Obs: O projeto ainda está passando por alterçãoes
